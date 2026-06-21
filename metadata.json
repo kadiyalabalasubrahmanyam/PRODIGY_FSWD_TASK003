@@ -1,0 +1,6 @@
+{
+  "name": "Pacific Flora Botanicals",
+  "description": "Artisanal plants, high-quality ceramics, and premium botanical supplies storefront. Features products browsing, flexible sorting & filters, fully persistent cart, interactive local order tracker, customer reviews, and a server-backed Gemini AI Plant Care Specialist chat module.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
